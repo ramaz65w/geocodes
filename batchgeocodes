@@ -1,0 +1,11 @@
+Bing Spatial Data Services, 2.0
+Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Address/Locality,GeocodeRequest/Address/AdminDistrict,GeocodeRequest/Address/PostalCode,GeocodeResponse/Address/AddressLine,GeocodeResponse/Address/Locality, GeocodeResponse/Address/AdminDistrict,GeocodeResponse/Address/PostalCode,GeocodeResponse/Point/Latitude,GeocodeResponse/Point/Longitude, GeocodeResponse/Confidence,StatusCode,FaultReason
+1,en-US,7629 MASHPEE WAY,ELK GROVE,CA,95758
+2,en-US,8154 KRAMER RANCH LN,ELK GROVE,CA,95758
+3,en-US,8203 ZENIA LN,ELK GROVE,CA,95758
+4,en-US,8781 SHELDON TERRACE LN,ELK GROVE,CA,95758
+5,en-US,8800 ARISTON LN,ELK GROVE,CA,95758
+6,en-US,8830 E STOCKTON BLVD,ELK GROVE,CA,95624
+7,en-US,8881 DRACUT DR,ELK GROVE,CA,95758
+8,en-US,8881 KATAMA CT,ELK GROVE,CA,95758
+9,en-US,8800 ARISTON LN,ELK GROVE,CA,95758
