@@ -1,6 +1,5 @@
 Bing Spatial Data Services, 2.0
 Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Address/Locality,GeocodeRequest/Address/AdminDistrict,GeocodeRequest/Address/PostalCode,GeocodeResponse/Address/AddressLine,GeocodeResponse/Address/Locality, GeocodeResponse/Address/AdminDistrict,GeocodeResponse/Address/PostalCode,GeocodeResponse/Point/Latitude,GeocodeResponse/Point/Longitude, GeocodeResponse/Confidence,StatusCode,FaultReason
-
 9887327,en-US,1004 Adler Avenue,Calexico,CA,92231
 3916082,en-US,1004 DEER HOLLOW DRIVE,PATTERSON,CA,95363
 9916010,en-US,1004 Drop Out Avenue,Eureka,CA,95501
