@@ -248,16 +248,10 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 9874285,en-US,1131 Concord Street,Delano,CA,93215
 9874282,en-US,1131 Concord Street,Delano,CA,93215
 9874277,en-US,1131 Concord Street,Delano,CA,93215
-"598783777,en-US,1131 E Holt Blvd.
-126 Virginia Ave.
-120 Virginia Ave.
-116 Virginia Ave. (est.)
-1125 E Holt Blvd.,Ontario,CA,91764"
-"598783874,en-US,1131 E Holt Blvd.
-126 Virginia Ave.
-120 Virginia Ave.
-116 Virginia Ave. (est.)
-1125 E Holt Blvd.,Ontario,CA,91764"
+598783777,en-US,1131 E Holt Blvd
+1125 E Holt Blvd.,Ontario,CA,91764
+598783874,en-US,1131 E Holt Blvd.
+1125 E Holt Blvd.,Ontario,CA,91764
 595925654,en-US,1131 S Street,Sacramento,CA,95811
 595925481,en-US,1131 S Street,Sacramento,CA,95811
 595925479,en-US,1131 S Street,Sacramento,CA,95811
