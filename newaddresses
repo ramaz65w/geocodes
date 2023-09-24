@@ -63,9 +63,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 9878634,en-US,2518 South 10th Street,Fresno,CA,93725
 9878639,en-US,2518 South 10th Street,Fresno,CA,93725
 9878642,en-US,2518 South 10th Street,Fresno,CA,93725
-611661713,en-US,2518-2536 E. Cesar E. Chavez Avenue, 335-349 N. Fickett Street, and 334-344 N.Mathews St,Los Angeles,CA,90033
-614735797,en-US,2518-2536 E. Cesar E. Chavez Avenue, 335-349 N. Fickett Street, and 334-344 N.Mathews Stre,Los Angeles,CA,90033
-614886559,en-US,2518-2536 East Cesar E. Chavez Avenue, 335-349 North Fickett Street,Los Angeles,CA,90033
 611662061,en-US,25186 Hancock Avenue, Suite 320,Murrieta,CA,92562
 3922414,en-US,2519 BUNKER STREET,REDDING,CA,96002
 3922416,en-US,2519 BUNKER STREET,REDDING,CA,96002
@@ -897,8 +894,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 123649791,en-US,2577 Horman Drive,Marysville,CA,95901
 600801485,en-US,2577 Jana Way,Linda,CA,95901
 600798218,en-US,2577 Jillian Dr,Linda,CA,95901
-9311617,en-US,2577/2579 San Pablo Avenue, 814 Mead Avenue, 817 Milton Street,Oakland,CA,94612
-9311621,en-US,2577/2579 San Pablo Avenue, 814 Mead Avenue, 817 Milton Street,Oakland,CA,94612
 3922052,en-US,25775 MADISON STREET,CHUALAR,CA,93925
 3922054,en-US,25775 MADISON STREET,CHUALAR,CA,93925
 9937157,en-US,2579 11th Street,Riverside,CA,92507
