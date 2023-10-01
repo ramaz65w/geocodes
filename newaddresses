@@ -515,8 +515,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 6926441,en-US,475 M Street,Crescent City,CA,95531
 4586478,en-US,475 Medford Avenue,Hayward,CA,94541
 4576338,en-US,475 Medford Avenue,Hayward,CA,94541
-579730187,en-US,475 Mendocino Street (Lot 1 Monterey West #3),Tulare,CA,93274
-579711856,en-US,475 Mendocino Street (Lot 1 Monterey West #3),Tulare,CA,93274
 3922714,en-US,475 N. ELMWOOD,LINDSAY,CA,93247
 3935934,en-US,475 N. FOOTHILL,LINDSAY,CA,93247
 3922712,en-US,475 NORTH ELMWOOD,LINDSAY,CA,93247
@@ -528,8 +526,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 609035642,en-US,475 Pipevine St,Sacramento,CA,95811
 609035655,en-US,475 Pipevine St,Sacramento,CA,95811
 609351396,en-US,475 Pipevine Street,Sacramento,CA,95811
-596411085,en-US,475 SE 35th Street Unit C-17,South Beach,OR,97366
-9820485,en-US,475 SE 35th Street Unit C-17,South Beach,OR,97366
 580161496,en-US,475 Sansome Street, Suite 1700,San Francisco,CA,94111
 580161495,en-US,475 Sansome Street, Suite 1700,San Francisco,CA,94111
 602901954,en-US,475 Sansome Street, Suite 1700,San Francisco,CA,94111
@@ -729,7 +725,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 9890517,en-US,480 Clifton Court,Greenfield,CA,93927
 602223519,en-US,480 Coyote Creek Circle,San Jose,CA,95116
 602451025,en-US,480 E. Mountain View St.,Long Beach,CA,90805
-607424646,en-US,480 East 4th Avenue and 400 East 5th Avenue,San Mateo,CA,94401
 593092323,en-US,480 Eddy Street,San Francisco,CA,94102
 9932890,en-US,480 Ellis Street,San Francisco,CA,94102
 9932857,en-US,480 Ellis Street,San Francisco,CA,94102
@@ -1138,8 +1133,6 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 615749252,en-US,49 Stevenson Street, Suite 300,San Francisco,CA,94105
 580213450,en-US,49 Stevenson Street, Suite 300,San Francisco,CA,94105
 615749251,en-US,49 Stevenson Street, Suite 300,San Francisco,CA,94105
-590205103,en-US,49 Stevenson Street, Suite 300 ATTN: LIIF Finance Department,San Francisco,CA,94105
-590205102,en-US,49 Stevenson Street, Suite 300 ATTN: LIIF Finance Department,San Francisco,CA,94105
 615006976,en-US,49 Stevenson Street, Suite 500,San Francisco,CA,94105
 9921793,en-US,49-436 Hibisco Street,Coachella,CA,92236
 594545135,en-US,49-436 Hibiscus Street,Coachella,CA,92236
