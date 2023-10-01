@@ -412,10 +412,8 @@ Id,GeocodeRequest/Culture,GeocodeRequest/Address/AddressLine,GeocodeRequest/Addr
 9912753,en-US,4313 39th Avenue,Sacramento,CA,95824
 9912758,en-US,4313 39th Avenue,Sacramento,CA,95824
 604481387,en-US,4314 & 4347 W. Adams Blvd,Los Angeles,CA,90018
-"598779044,en-US,4314 and 4347 W Adams Blvd
-,Los Angeles,CA,90018"
-"598779139,en-US,4314 and 4347 W Adams Blvd
-,Los Angeles,CA,90018"
+598779044,en-US,4314 and 4347 W Adams Blvd,Los Angeles,CA,90018
+598779139,en-US,4314 and 4347 W Adams Blvd,Los Angeles,CA,90018
 598481393,en-US,4314 and 4347 West Adams Blvd,Los Angeles,CA,90018
 603625145,en-US,4314 and 4347 West Adams Boulevard,Los Angeles,CA,90018
 603493153,en-US,4314 and 4347 West Adams Boulevard,Los Angeles,CA,90018
